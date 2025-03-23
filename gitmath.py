@@ -19,3 +19,6 @@ def division(a, b):
 
 def raiz_2(a):
     return math.sqrt(a)
+
+def logaritmo_n(a):
+    return math.log(a)
